@@ -1,0 +1,25 @@
+.timer {
+  text-align: center;
+  padding: 150px;
+  font-size: 25px;
+}
+
+
+.timer button {
+  color: black;
+  border-radius: 4px;
+
+  margin: 20px;
+  width: 100px;
+  height: 30px;
+}
+.def{
+  display: flex;
+  justify-content: center;
+  
+}
+.def p{
+  margin-left: 10px;
+ font-style: oblique;
+  font-size: 20px;
+}
